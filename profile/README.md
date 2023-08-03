@@ -21,7 +21,7 @@ Overall, Suvaidyam's GitHub organization stands as a testament to their passion 
 
 
 
-## Connect with me at: <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px" style="max-width: 100%;"><br>
+## Connect with Us at: <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px" style="max-width: 100%;"><br>
 <a href="https://www.linkedin.com/company/suvaidyam/" >
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar-jadhav-7809b7196" height="30" width="40" style="max-width: 100%; "></a> &nbsp; 
  
