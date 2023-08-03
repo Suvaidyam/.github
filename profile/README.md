@@ -1,20 +1,23 @@
-## Hi there 👋
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=20&amp;lines=Hey!+Welcome+to+Suvaidyam!;Hey!+Welcome+to+Suvaidyam!" style="width: 100%;"/> 
 
+## About Suvaidyam: ## 
+![](https://komarev.com/ghpvc/?username=suvaidyam&color=green)
 
-**Here are some ideas to get you started:**
+🙋‍♀️Suvaidyam is a dynamic organization on GitHub that offers innovative technology solutions and specializes in app and web application development. With a passion for cutting-edge technologies and a team of skilled developers, Suvaidyam aims to provide high-quality software products and services to its clients and users.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+The organization's GitHub repository likely showcases a diverse range of projects, including open-source software, libraries, frameworks, and applications. These projects demonstrate Suvaidyam's commitment to solving real-world challenges and contributing to the development community.
 
+## Team at Suvaidyam: ##
 
+The team at Suvaidyam is dedicated to staying up-to-date with the latest trends and best practices in the tech industry. They leverage their expertise to deliver efficient and reliable solutions tailored to meet the unique needs of their clients and users.
 
- <!-- ![Profile views](https://gpvc.arturio.dev/abhirock74) -->
- ![](https://komarev.com/ghpvc/?username=abhirock74&color=red)
- 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=20&amp;lines=Hey!+It's+Abhishek+Kumar!;Full+Stack+Developer...👨🏻‍💻;" style="width: 100%;"/>
+## Collaboration: ##
+
+Through collaboration and an open-source mindset, Suvaidyam actively encourages contributions from developers and enthusiasts worldwide. This inclusive approach fosters a vibrant community that shares ideas, learns from each other, and collectively works towards advancing the state of technology.
+
+## Overall ##
+Overall, Suvaidyam's GitHub organization stands as a testament to their passion for technology, commitment to excellence, and their desire to make a positive impact in the tech community through their projects and contributions.
+
 
 # 💻 Tech Skills:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -37,36 +40,18 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Vs Code](https://img.shields.io/badge/VS%20Code-%23323330.svg?style=for-the-badge&logo=visualstudio&logoColor=%23007ACC)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
-
-- 🔭 I’m currently working on Suvaidyam 
-- 🌱 I’m currently learning Full Stack  MEAN Developer 
-- 👯 I’m looking to collaborate on Learning based Projects 
-- 💬 Ask me about Full Stack Developer 
-- 📫 How to reach me: Email:- abhishek.singh@suvaidyam.com 
-- ⚡ Fun fact: It’s all 0’s and 1’s 
-
-# 📊 GitHub Stats:
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-#
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=abhirock74)](https://github.com/ryo-ma/github-profile-trophy)
+![Frappe](https://img.shields.io/badge/Frappe-%23007ACC.svg?style=for-the-badge&logo=frappe&logoColor=white) 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhirock74&show_icons=true) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhirock74)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- ![GitHub metrics](https://metrics.lecoq.io/abhirock74)   -->
-
-<h2>Connect with me at:</h2><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px" style="max-width: 100%;"><br>
-<a href="https://www.linkedin.com/in/abhirock74/" >
+## Connect with me at: <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px" style="max-width: 100%;"><br>
+<a href="https://www.linkedin.com/company/suvaidyam/" >
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar-jadhav-7809b7196" height="30" width="40" style="max-width: 100%; "></a> &nbsp; 
-<a href="https://twitter.com/abhirock_74">
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anthropic_o3" height="30" width="40" style="max-width: 100%;"></a>
-<a href="https://www.facebook.com/abhirock74">
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anthropic_o3" height="30" width="40" style="max-width: 100%;"/></a>
-<a href="https://www.instagram.com/the_abhirock74/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anthropic_o3" height="30" width="40" style="max-width: 100%;"/></a>
-<a href="https://www.youtube.com/c/dev_abhirock74">
+ 
+<a href="https://www.suvaidyam.com">
+ <img align="center" src="http://www.suvaidyam.com/static/media/Logo.8ed55c3b2425b097eadd.png" alt="anthropic_o3" height="30" width="40" style="max-width: 100%;"/></a>
+<a href="https://www.instagram.com/suvaidyam/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anthropic_o3" height="30" width="40" style="max-width: 100%;"/></a>
+<a href="https://www.youtube.com/c/suvaidyam">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anthropic_o3" height="30" width="40" style="max-width: 100%;"/></a>
 
 
