@@ -19,7 +19,3 @@ Overall, Suvaidyam's GitHub organization stands as a testament to their passion 
 <a href="https://www.instagram.com/suvaidyam/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anthropic_o3" height="30" width="40" style="max-width: 100%;"/></a>
 <a href="https://www.youtube.com/@suvaidyam">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anthropic_o3" height="30" width="40" style="max-width: 100%;"/></a>
-<code>
-<img align="center" height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/marquee.svg" style="max-width: 100%;">
-</code>
- 
